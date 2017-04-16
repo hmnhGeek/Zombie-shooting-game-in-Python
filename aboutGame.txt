@@ -1,0 +1,8 @@
+ABOUT
+-----------------------------------------------------
+
+'Shoot the Zombie!!' game is developed in PyGame and Python. 
+Credits: Himanshu Sharma
+Version: v1.0
+
+-----------------------------------------------------

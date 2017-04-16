@@ -1,0 +1,12 @@
+HELP
+--------------------------------------------------------
+
+Welcome to "Shoot the Zombie!!" game. Its a typical shooting game.
+It is simple enough to play. Just point the mouse anywhere on the zombie
+and left click the mouse. It will shoot and kill the zombie and increase your
+score by 1. But remember, the zombie is fast, as you will approach him and
+try to shoot him, he will disappear from there very quickly. To outrun him
+you also need to be quick in killing him.
+
+ALL THE BEST!!
+--------------------------------------------------------
